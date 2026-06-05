@@ -1,4 +1,4 @@
-# 🪵 Tung Tung Sahur Wood Theme
+# 🪵 Tung Tung Sahur Theme
 
 An earthy, woody, and ultra-aesthetic VS Code theme inspired by the viral 2025 internet meme character **Tung Tung Tung Sahur**. Bring the warm, sepia-toned vibes of an anthropomorphic Kentongan straight to your favorite code editor!
 
@@ -6,8 +6,8 @@ Whether you are coding late into the night or waking up early for Sahur, this th
 
 ## ✨ Features
 
-* **Tung Tung Sahur Wood (Dark):** A deep, nocturnal palette featuring rich dark browns, warm burnt oranges, and soft sepia accents. Reminiscent of a glowing streetlamp in the quiet hours of the night.
-* **Tung Tung Sahur Wood (Light):** A crisp, daytime variant utilizing bamboo tones, parchment backgrounds, and terracotta syntax highlighting for a natural, grounded coding experience.
+* **Tung Tung Sahur Dark:** A deep, nocturnal palette featuring rich dark browns, warm burnt oranges, and soft sepia accents. Reminiscent of a glowing streetlamp in the quiet hours of the night.
+* **Tung Tung Sahur Light:** A crisp, daytime variant utilizing bamboo tones, parchment backgrounds, and terracotta syntax highlighting for a natural, grounded coding experience.
 * **Optimized Syntax Highlighting:** Carefully tuned colors for maximum readability across popular languages (Java, C/C++, Python, HTML/CSS, etc.).
 * **Skeuomorphic & Earthy:** Ditch the neon cyberpunk vibes for pure, unadulterated *wood*.
 
