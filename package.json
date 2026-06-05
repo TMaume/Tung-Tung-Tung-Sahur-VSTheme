@@ -1,0 +1,32 @@
+{
+  "name": "tung-tung-sahur-wood",
+  "displayName": "Tung Tung Sahur Wood",
+  "description": "Triple T da GOAT, Tung Tung Sahur Theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "TMaume",
+  "icon": "./Images/TripleT.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tung Tung Sahur Dark",
+        "uiTheme": "vs-dark",
+        "path": "./Themes/TungTungTungSahurDark-color-theme.json"
+      },
+      {
+        "label": "Tung Tung Sahur Light",
+        "uiTheme": "vs",
+        "path": "./Themes/TungTungTungSahurLight-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMaume/Tung-Tung-Sahur-Theme"
+  }
+}
