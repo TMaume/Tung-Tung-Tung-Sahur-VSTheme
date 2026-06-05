@@ -1,7 +1,7 @@
 {
-  "name": "tung-tung-sahur-theme",
-  "displayName": "Tung Tung Sahur Theme",
-  "description": "Triple T da GOAT, Tung Tung Sahur Theme for Visual Studio Code",
+  "name": "tung-tung-tung-sahur-theme",
+  "displayName": "Tung Tung Tung Sahur Theme",
+  "description": "Triple T da GOAT, Tung Tung Tung Sahur Theme for Visual Studio Code",
   "version": "1.2.0",
   "publisher": "TMaume",
   "icon": "./Images/TripleT.png",
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TMaume/Tung-Tung-Sahur-Theme"
+    "url": "https://github.com/TMaume/Tung-Tung-Tung-Sahur-VSTheme"
   }
 }
