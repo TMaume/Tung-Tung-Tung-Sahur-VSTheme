@@ -1,5 +1,3 @@
----
-
 # 🪵 Tung Tung Sahur Wood Theme
 
 An earthy, woody, and ultra-aesthetic VS Code theme inspired by the viral 2025 internet meme character **Tung Tung Tung Sahur**. Bring the warm, sepia-toned vibes of an anthropomorphic Kentongan straight to your favorite code editor!
@@ -50,5 +48,3 @@ Found a bug or want to suggest a new syntax color? Feel free to open an issue or
 ## 📜 License
 
 This theme is released under the [MIT License](https://opensource.org/licenses/MIT).
-
----
