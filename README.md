@@ -16,7 +16,7 @@ Whether you are coding late into the night or waking up early for Sahur, this th
 
 | Dark Mode | Light Mode |
 | --- | --- |
-| `![Dark Mode Screenshot](./Images/dark-mode.png)` | `![Light Mode Screenshot](./Images/light-mode.png)` |
+| `![Dark Mode Screenshot](./Images/TungDark.png)` | `![Light Mode Screenshot](./Images/TungLight.png)` |
 
 ## 🚀 Installation
 
